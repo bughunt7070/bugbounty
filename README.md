@@ -1,0 +1,2 @@
+# bugbounty
+for hunting
